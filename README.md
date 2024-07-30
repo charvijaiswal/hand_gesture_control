@@ -1,4 +1,4 @@
-Hand Gesture Recognition with MediaPipe
+**Hand Gesture Recognition with MediaPipe**
 
 The project utilizes MediaPipe's robust hand-tracking capabilities to detect and classify various hand gestures in real-time. This can be used in a variety of applications such as virtual controls, sign language recognition, and interactive gaming.
 
